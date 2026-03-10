@@ -925,4 +925,8 @@ export default function AlgorithmVisualizer() {
       </div>
     </div>
   );
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> eae6cd526ced7abcecc811aeb915961c318ccbff
